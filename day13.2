@@ -1,0 +1,28 @@
+Write a program to print numbers from 1 to n.
+
+#include <stdio.h>
+
+void printNumbers(int n) {
+    if (n == 0) {
+        return;
+    }
+
+    printNumbers(n - 1);
+    printf("%d ", n);
+}
+
+int main(void) {
+    int n;
+
+    printf("Enter n: ");
+    scanf("%d", &n);
+
+    if (n < 1) {
+        printf("Enter a positive integer.\n");
+    } else {
+        printNumbers(n);
+        printf("\n");
+    }
+
+    return 0;
+}
