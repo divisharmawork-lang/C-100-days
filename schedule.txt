@@ -1,14 +1,19 @@
-100 Days of C - Progress Schedule
+100 DAYS OF C - DETAILED PROGRESS
 
-Start Date: 15 August 2026
-Current Date: 25 November 2026
+Challenge Start: 15 August 2026
+Progress Updated: 25 November 2026
 
-Questions 1-50: 2 questions per working day
-Questions 51-96: 1 question per working day
+Questions 1-50:
+2 questions per working day
+Total: 25 working days
 
-Total Questions Completed: 96
-Total Working Days Required: 71
+Questions 51-96:
+1 question per working day
+Total: 46 working days
 
-Note: Exact dates for individual questions
-are not fully verified. This is a
-progress summary, not a commit-date record.
+Total Completed: 96/100 Questions
+
+Note:
+Individual completion dates are not verified.
+The challenge timeline is a progress plan,
+not a record of GitHub commit dates.
