@@ -1,17 +1,51 @@
 DAY 50-96 PLANNED SCHEDULE
 
-Day 50 - 10 October 2026
-Day 51 - 11 October 2026
-Day 52 - 12 October 2026
-Day 53 - 13 October 2026
-Day 54 - 14 October 2026
-Day 55 - 15 October 2026
+Day 50 - 10 Oct 2026
+Day 51 - 11 Oct 2026
+Day 52 - 12 Oct 2026
+Day 53 - 13 Oct 2026
+Day 54 - 14 Oct 2026
+Day 55 - 15 Oct 2026
+Day 56 - 16 Oct 2026
+Day 57 - 17 Oct 2026
+Day 58 - 18 Oct 2026
+Day 59 - 19 Oct 2026
+Day 60 - 20 Oct 2026
+Day 61 - 21 Oct 2026
+Day 62 - 22 Oct 2026
+Day 63 - 23 Oct 2026
+Day 64 - 24 Oct 2026
+Day 65 - 25 Oct 2026
+Day 66 - 26 Oct 2026
+Day 67 - 27 Oct 2026
+Day 68 - 28 Oct 2026
+Day 69 - 29 Oct 2026
+Day 70 - 30 Oct 2026
+Day 71 - 31 Oct 2026
+Day 72 - 01 Nov 2026
+Day 73 - 02 Nov 2026
+Day 74 - 03 Nov 2026
+Day 75 - 04 Nov 2026
+Day 76 - 05 Nov 2026
+Day 77 - 06 Nov 2026
+Day 78 - 07 Nov 2026
+Day 79 - 08 Nov 2026
+Day 80 - 09 Nov 2026
+Day 81 - 10 Nov 2026
+Day 82 - 11 Nov 2026
+Day 83 - 12 Nov 2026
+Day 84 - 13 Nov 2026
+Day 85 - 14 Nov 2026
+Day 86 - 15 Nov 2026
+Day 87 - 16 Nov 2026
+Day 88 - 17 Nov 2026
+Day 89 - 18 Nov 2026
+Day 90 - 19 Nov 2026
+Day 91 - 20 Nov 2026
+Day 92 - 21 Nov 2026
+Day 93 - 22 Nov 2026
+Day 94 - 23 Nov 2026
+Day 95 - 24 Nov 2026
+Day 96 - 25 Nov 2026
 
-Continue one day at a time.
-
-Day 94 - 23 November 2026
-Day 95 - 24 November 2026
-Day 96 - 25 November 2026
-
-Note: These are planned dates,
-not verified GitHub commit dates.
+These are planned dates, not verified GitHub commit dates.
