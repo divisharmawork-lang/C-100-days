@@ -1,19 +1,17 @@
-100 DAYS OF C - DETAILED PROGRESS
+DAY 50-96 PLANNED SCHEDULE
 
-Challenge Start: 15 August 2026
-Progress Updated: 25 November 2026
+Day 50 - 10 October 2026
+Day 51 - 11 October 2026
+Day 52 - 12 October 2026
+Day 53 - 13 October 2026
+Day 54 - 14 October 2026
+Day 55 - 15 October 2026
 
-Questions 1-50:
-2 questions per working day
-Total: 25 working days
+Continue one day at a time.
 
-Questions 51-96:
-1 question per working day
-Total: 46 working days
+Day 94 - 23 November 2026
+Day 95 - 24 November 2026
+Day 96 - 25 November 2026
 
-Total Completed: 96/100 Questions
-
-Note:
-Individual completion dates are not verified.
-The challenge timeline is a progress plan,
-not a record of GitHub commit dates.
+Note: These are planned dates,
+not verified GitHub commit dates.
