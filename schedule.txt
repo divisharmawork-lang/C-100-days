@@ -1,0 +1,14 @@
+100 Days of C - Progress Schedule
+
+Start Date: 15 August 2026
+Current Date: 25 November 2026
+
+Questions 1-50: 2 questions per working day
+Questions 51-96: 1 question per working day
+
+Total Questions Completed: 96
+Total Working Days Required: 71
+
+Note: Exact dates for individual questions
+are not fully verified. This is a
+progress summary, not a commit-date record.
